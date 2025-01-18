@@ -126,11 +126,6 @@ Visualization is done via `matplotlib` with a multi-plot layout.
 
 ---
 
-## **Contributing**
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
----
-
 ## **Acknowledgments**
 - [ccxt](https://github.com/ccxt/ccxt)
 - [Web3.py](https://github.com/ethereum/web3.py)
